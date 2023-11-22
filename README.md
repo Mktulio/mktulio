@@ -1,4 +1,4 @@
-### Hiii! I'm Marco Tulio, a systems student passionate about technology 😄
+### Hiii! I'm Marco Tulio a systems student passionate about technology 😄
 
 Full stack development apprentice from Brazil 🇧🇷
 
@@ -19,4 +19,16 @@ Full stack development apprentice from Brazil 🇧🇷
   <a href="https://www.linkedin.com/in/marcotulioalmeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+* If you need any help please contact me in one of the links above and I'll be glad to help you! 🤙🏽
+
+##
+
+<div align="left">
+<img width="410px" height="195px" src="https://github-readme-stats.vercel.app/api?username=dntfindmel&show_icons=true&theme=synthwave&PAT_1">
+<img width="370px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dntfindmel&hide_progress=true&theme=synthwave&PAT_1">
+</div>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+
   
