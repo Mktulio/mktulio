@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#4a4debB&height=120&section=header"/>
 
-### Hiii! I'm Marco Tulio a systems student passionate about technology 😄
-
-Full stack development apprentice from Brazil 🇧🇷
+### What's up guys? I'm Marco Tulio, I graduated in Software Analysis and Development, but I work with the personnel and financial department.
+From Brazil 🇧🇷
 
 <div style="display: inline_block"><br>
   <img align="center" alt="mktulio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
